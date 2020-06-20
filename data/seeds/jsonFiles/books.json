@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Fatawa Barkat-e-Raza",
+    "bookLink": "https://drive.google.com/file/d/1nl4kypB3Sh9iX_lmhjXKhJCcS3vD-f1Q/view",
+    "photoLink": "https://drive.google.com/file/d/1QpGJLM6A0HwulczMAot8wZHHXJmIaGu-/view",
+    "categoryId": 3,
+    "authorId": 1,
+    "translatorId": null,
+    "languageId": 1
+  },
+  {
+    "name": "Minhatul Bari Fi Sahihil Bukhari",
+    "bookLink": "https://drive.google.com/file/d/1vZSJFcNXlOCQFG3OwYBKIfZz3SQDvZtr/view",
+    "photoLink": "https://drive.google.com/file/d/1HVTkUcP2jEP2KvkU8FwdF4LpFUwDTbF4/view",
+    "categoryId": 2,
+    "authorId": 2,
+    "translatorId": null,
+    "languageId": 1
+  },
+  {
+    "name": "سراج العوارف فی الوصایا والمعارف",
+    "bookLink": "https://drive.google.com/file/d/1Z_0lOoptgeLghH7-zOnlV507VFtf1gWD/view",
+    "photoLink": "https://drive.google.com/file/d/1q3Amr9j3g54OvEsIzPtmwhMeJqAVphu2/view",
+    "categoryId": 4,
+    "authorId": 3,
+    "translatorId": 5,
+    "languageId": 1
+  }
+]
