@@ -21,5 +21,6 @@ async function addUser(user) {
 }
 
 function findBy(filter) {
+  console.log("findby func: ", filter);
   return db("users").where(filter).first();
 }

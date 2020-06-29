@@ -30,8 +30,10 @@ router.post("/register", (req, res) => {
 
 router.post("/login", (req, res) => {
   const { username, password } = req.body;
+  console.log("users loginng in: ", req.body);
   UserTbl.findBy({ username })
     .then((user) => {
+      console.log("after loging in then: ", user);
       if (user && bcrypt.compareSync(password, user.password)) {
         const token = getToken(user);
         res.status(200).json({
